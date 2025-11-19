@@ -259,10 +259,6 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🔗 References
 
 - **SISA Paper**: Bourtoule et al., *Machine Unlearning*, 2021

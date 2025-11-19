@@ -255,7 +255,6 @@ Contributions are welcome! Please feel free to:
 ```bash
 git clone <your-repo-url>
 cd machine-unlearning-sisa-demo
-pip install -r requirements.txt
 jupyter notebook
 ```
 
